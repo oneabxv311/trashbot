@@ -1,4 +1,4 @@
 # trashbot
 dev by oneabxv3all
-
-<div>https://discord.gg/z64Uus</div>
+my server dev hub  
+<a src="discord">https://discord.gg/z64Uus</a>
